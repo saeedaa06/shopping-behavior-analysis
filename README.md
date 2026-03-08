@@ -11,7 +11,7 @@ The dataset used in this project is Customer Shopping Behavior Data, containing 
 
 ## Key Columns in the Dataset
 
-Customer ID – Unique identifier for each customer
+- Customer ID – Unique identifier for each customer
 
 Age – Customer age
 
